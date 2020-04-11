@@ -1,3 +1,4 @@
 初めてのgit
 git 追加
 . git add
+git status
